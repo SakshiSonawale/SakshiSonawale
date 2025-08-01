@@ -11,7 +11,8 @@
 ### 💫 About Me
 - 🎓 Computer Science graduate (B.Tech., 2024)  
 - 📊 Data Science Intern applying **EDA, predictive modeling & BI** to solve real-world problems  
-- 🧑‍💻 Passionate about turning messy data into clear, actionable insights  
+- 🧑‍💻 Passionate about turning messy data into clear, actionable insights
+- 📫 Reach me at: sakshi.b.sonawale@gmail.com
 - 🌍 Based in Karad, Maharashtra
 ---
 
